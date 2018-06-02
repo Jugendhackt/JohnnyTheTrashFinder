@@ -13,6 +13,7 @@ In einem zweiten Schritt wollen wir die Metadaten der Bilder analysieren und so 
 Im dritten Schritt können wir dann eine Drohne mit der entwickelten Software ausstatten und dann Testen.
 ### Deep learning
 image classification von Google über transfer learning auf unser Problem übertragen, sodass es am Ende möglich ist, die Bilder als dreckig oder sauber zu deklarieren.
+Datensätze mit Bildern herunterladen.
 ## Aufgaben und Probleme
 viele viele Bilder
 evt. Schnittstelle mit Umweltschutzapp
