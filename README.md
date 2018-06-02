@@ -20,7 +20,7 @@ Heatmap
 Verbindung mit OpenStreetMap
 Drohne 
 ## Status
-02-06-2018 Anfang des Projektes, deep learning ausprobieren
+02-06-2018 Anfang des Projektes, deep learning 
 ## Links
 ### Examplecode von Tensorflow ->Grundlage für Projekt
 https://github.com/tensorflow/hub/raw/r0.1/examples/image_retraining/retrain.py
